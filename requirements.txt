@@ -1,0 +1,17 @@
+PyMuPDF
+aspose-words==23.5.0
+ArabicOcr
+flask
+Werkzeug
+camelot-py
+Pillow
+# python-poppler
+# poppler-utils
+numpy==1.20.3
+pywin32==300
+setuptools==56.2.0
+openai==0.27.4
+openapi-schema-pydantic==1.2.4
+opencv-python==4.8.0.76
+opencv-python-headless==4.7.0.72
+openpyxl==3.0.10
